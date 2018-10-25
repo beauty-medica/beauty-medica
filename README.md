@@ -1,0 +1,2 @@
+# beauty-medica
+strona www
