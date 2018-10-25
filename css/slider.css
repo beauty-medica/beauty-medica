@@ -1,0 +1,28 @@
+/* slider */
+body div.center .sliderArrow{
+	max-width:666px;
+	margin:0 auto;
+	width:96%;
+	padding:0 2%;
+}
+
+body div.sliderArrow{
+	overflow:hidden;
+	margin-top:30px;
+}
+body div.sliderArrow .sliderElements{
+	width:100%;
+}
+body div.slider{
+	padding:0px;
+	margin:0 auto;
+	border:2px double #2f1d0f;
+	max-height:400px;
+	max-width:282px;
+}
+body div.slider img{
+	margin:0;
+	padding:0;
+	max-height:400px;
+	max-width:282px;
+}

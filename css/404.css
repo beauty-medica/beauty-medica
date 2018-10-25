@@ -1,0 +1,9 @@
+body {font-family:'Open Sans','Droid Arabic Naskh','Mplus Fulah Light',sans-serif;font-weight:normal;display:block;margin:0 0 12px 0;line-height:100%;text-shadow:0 1px 0 rgba(255,255,255,0.75);color:#484848}
+@font-face{font-family:'Open Sans Light';src:url('ttf/OpenSans-Light-webfont.eot?#iefix') format('embedded-opentype'),url('ttf/OpenSans-Light-webfont.woff') format('woff'),url('ttf/OpenSans-Light-webfont.ttf') format('truetype');font-weight:normal;font-style:normal}
+@font-face{font-family:'Open Sans Light';src:url('ttf/OpenSans-Semibold-webfont.eot?#iefix') format('embedded-opentype'),url('ttf/OpenSans-Semibold-webfont.woff') format('woff'),url('ttf/OpenSans-Semibold-webfont.ttf') format('truetype');font-weight:bold;font-style:normal}
+@font-face{font-family:'Open Sans Light';src:url('ttf/OpenSans-LightItalic-webfont.eot?#iefix') format('embedded-opentype'),url('ttf/OpenSans-LightItalic-webfont.woff') format('woff'),url('ttf/OpenSans-LightItalic-webfont.ttf') format('truetype');font-weight:normal;font-style:italic}
+@font-face{font-family:'Open Sans';src:url('ttf/OpenSans-Regular-webfont.eot?#iefix') format('embedded-opentype'),url('ttf/OpenSans-Regular-webfont.woff') format('woff'),url('ttf/OpenSans-Regular-webfont.ttf') format('truetype');font-weight:normal;font-style:normal}
+@font-face{font-family:'Open Sans';src:url('ttf/OpenSans-Bold-webfont.eot?#iefix') format('embedded-opentype'),url('ttf/OpenSans-Bold-webfont.woff') format('woff'),url('ttf/OpenSans-Bold-webfont.ttf') format('truetype');font-weight:bold;font-style:normal}
+@font-face{font-family:'Open Sans';src:url('ttf/OpenSans-Italic-webfont.eot?#iefix') format('embedded-opentype'),url('ttf/OpenSans-Italic-webfont.woff') format('woff'),url('ttf/OpenSans-Italic-webfont.ttf') format('truetype');font-weight:normal;font-style:italic}
+a{color:#6c7a89;text-decoration:none}
+a:hover,a:focus,a:active{color:#424b54;text-decoration:underline}

@@ -1,0 +1,114 @@
+h1.large{width:60%;margin:0 auto;text-align:center;line-height:1.1;padding-top:40px;padding-bottom:40px}
+.towary-panel #primary{padding:40px 20px 0 20px;overflow:hidden}
+.towary-panel #primary section{float:left;width:460px;margin:0 10px}
+.towary-panel #primary h2{font-size:36px;font-size:2.25rem}
+.towary-panel #primary img{float:left;width:460px;margin:0 10px;float:right;margin-bottom:20px}
+.towary-panel #primary .button{display:block;height:auto;line-height:20px;font-size:18px;font-size:1.125rem;padding:20px;width:400px;margin:40px 0;font-weight:normal}
+.towary-panel #primary .button small{display:block}
+.towary-panel #secondary h2{text-align:center;margin-bottom:20px}
+.towary-panel #secondary figure{float:left;width:220px;margin:0 10px}
+.towary-panel #secondary2 h2{text-align:center;margin-bottom:20px}
+.towary-panel #secondary2 figure{float:left;width:220px;margin:0 10px}
+.towary-panel #isecondary h2{text-align:center;margin-bottom:20px}
+.towary-panel #isecondary figure{float:left;width:220px;margin:0 10px}
+.towary-panel .kontener img{display:block;margin:0 auto}
+.three-points{margin-top:-30px}
+.three-points h4{text-align:center}
+.kontener{padding-top:20px;padding-bottom:20px;margin-bottom:40px}
+.about #primary{padding-top:40px;text-align:center}
+.about .kontener{padding-top:0;margin-bottom:0}
+.about .kontener img{margin-top:20px}
+.about h2{margin-top:20px}
+.partners h2{padding-left:12px}
+.partnersr h2{text-align:right;padding-right:12px; margin-top:-42px}
+.span3{float:left;width:220px;margin:0 10px}
+.span4{float:left;width:300px;margin:0 10px}
+.span5{float:left;width:380px;margin:0 10px}
+.span6{float:left;width:400px;margin:0 10px}
+.span6r{float:right;width:400px;margin:0 10px}
+.span7{float:left;width:540px;margin:0 10px}
+.span8{float:left;width:620px;margin:0 10px;margin:0}
+.span12{float:left;width:940px;margin:0 10px}
+.centered-span3{float:left;width:460px;margin:0 10px;margin-left:250px}
+.ligthbeam-wordmark{width:250px}
+.white-bg{background:#fff}
+.text-center{text-align:center}
+.square{width:120px;height:120px;margin:10px auto}
+.inline-label{letter-spacing:1px;display:inline-block;margin-right:10px}
+.row-range{float:right}
+.float-left{float:left}
+.float-right{float:right}
+.pdf {margin-top:0;margin-bottom:0;padding:0;}
+.dane {border:2px; border-style:solid; border-color: #c9c9c9;}
+.dane td{border:2px; border-style:solid; border-color: #c9c9c9;}
+@media only screen and (min-width:760px) and (max-width:1000px){
+	h1.large{width:90%}
+	.towary-panel .span6,.span6r,.about .span3,.about .span5,.about .span6,.about .span7 .span6r{width:100%;margin:0}
+	/* .kontener{width:span-all()} */
+	.kontener .centered-span3{width:auto;margin:0}
+	.kontener .partner-logo{width:80%;margin:0 auto}
+	.kontener #loading img{width:100px}
+	.towary-panel #primary{padding:0 20px;margin:-20px 0 20px 0}
+	.towary-panel #primary section{float:none;width:auto}
+	.towary-panel #primary img{float:none;width:50%;margin:0 auto 20px auto}
+	.towary-panel #primary .button{margin:40px auto}
+	.towary-panel #secondary{padding-top:0}
+	.towary-panel #secondary figure{width:320px;margin:0 20px}
+	.towary-panel #secondary2{padding-top:0}
+	.towary-panel #secondary2 figure{width:320px;margin:0 20px}
+	.towary-panel #isecondary{padding-top:0}
+	.towary-panel #isecondary figure{width:320px;margin:0 20px}
+	.towary-panel #isecondary  h5.dlinia {margin-top:-20px}
+	.about .kontener img{display:block;margin:20px auto}
+	.partners h2{padding-left:0}
+	.three-points .visualize,.three-points .analyze{width:340px}
+	.three-points .contribute{width:340px;padding-left:190px;padding-right:190px}
+	.span4 img {width:80%}
+	.button {width:250px; display:block;margin:0 auto;}
+	.kontener h2 {font-size: 24px}
+	#roz760-815 figure  {width:290px; margin:0 20px }
+}
+@media only screen and (max-width:760px){
+	h1.large{width:90%}
+	.towary-panel .span3,.about .span3,.towary-panel .span4,.about .span4,.towary-panel .span5,.about .span5,.towary-panel .span6,.about .span6,.span6r,.towary-panel .span7,.about .span7,.towary-panel .span8,.about .span8{width:auto;margin:0;float:none}
+	.towary-panel #primary .button,.about #primary .button{width:auto}
+	.kontener{ /* width:span-all(); */ padding:0 20px}
+	.kontener .centered-span3{width:auto;margin:0}
+	.kontener #loading img{width:100px}
+	.kontener .website-list-table thead tr th:nth-child(3),.kontener .website-list-table tbody tr td:nth-child(3),.kontener .sorting-options a:nth-of-type(3),.kontener .option-divider:nth-of-type(2){display:none}.kontener .website-list-table{width:auto}
+	.towary-panel #primary{margin:-20px 0 20px 0}
+	.towary-panel #primary .button{margin:40px auto}
+	.towary-panel #primary section{float:none;width:auto;margin:0}
+	.towary-panel #primary img{float:none;width:95%;margin:0 auto 20px auto}
+	.towary-panel #secondary h2{text-align:left}
+	.towary-panel #secondary figure{width:auto;margin:0}
+	.towary-panel #secondary2 h2{text-align:left}
+	.towary-panel #secondary2 figure{width:auto;margin:0}
+	.towary-panel #isecondary h2{text-align:left}
+	.towary-panel #isecondary figure{width:auto;margin:0}
+	.three-points{margin-top:-60px}
+	.about .kontener img{width:100%}
+	.partners h2{padding-left:0}
+	 .wyrownaj {text-align:left; }
+}
+@media only screen and (max-width:480px){
+	.span6 {padding-top:0px;}
+}
+@media only screen and (min-width:760px){
+	br.ukryjkokpc {display:none}
+}
+@media only screen and (min-width:760px) and (max-width:1000px){
+	.pokaz760-815 {padding-top:20px;}
+}
+@media only screen and (min-width:1000px){
+	br.ukryjvcpc {display:none}
+.towary-panel #isecondary h5{text-align:center;margin-bottom:10px}
+.towary-panel #isecondary figure{float:left;width:120px;margin:0 10px}
+}
+@media only screen and (min-width:480px) and (max-width:760px) {
+      .i480760 {margin-left:96px; margin-right:96px;}
+      .towary-panel #isecondary  h5.dlinia {margin-top:-20px}
+}
+@media only screen and (max-width:1000px){
+	.i1000 {margin-left:66px; margin-right:66px;}
+}
