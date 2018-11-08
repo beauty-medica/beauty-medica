@@ -30,7 +30,7 @@ a img{border:0}
 html{background:#fff}html[lang='ar'] *,html[lang='fa'] *,html[lang='hi-IN'] *,html[lang='bn-IN'] *{letter-spacing:normal!important}html[lang='ja'] *,html[lang='ko'] *,html[lang|='zh'] *{font-style:normal!important}body{font-size:14px;line-height:1.5;font-family:'Open Sans','Droid Arabic Naskh','Mplus Fulah',sans-serif;color:#333;background:#fff}#outer-wrapper{position:relative;border-top:2px solid #fff;background:#f9f9f9 url(../mm/css/bg-stone.png) 0 0 repeat-x}
 #wrapper{padding-bottom:40px;width:1000px;margin:0 auto;position:relative}
 #strings{display:none}
-a{color:#6c7a89;text-decoration:none}
+a{color:#ff53f9;text-decoration:none}
 a:hover,a:focus,a:active{color:#424b54;text-decoration:underline}
 a.more:after{content:" »"}
 .sand #outer-wrapper{background:#f5f1e8 url(../mm/css/bg-sand.png) repeat;background:url(../mm/css/bg-gradient-sand.png) repeat-x 0 0,url(../mm/css/bg-sand.png) repeat 0 0,#f5f1e8}

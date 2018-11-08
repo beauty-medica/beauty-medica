@@ -9,23 +9,25 @@
     <meta name="language" content="pl">
     <meta name="robots" content="all">
     <meta name="rating" content="General">
-    <title>Beauty Medica :: Salon depilacji laserowej</title>
+    <title>Beauty Medica :: Salon depilacji laserowej - O nas</title>
     <meta name="description" content="Beauty Medica - Dzięki serii zabiegów depilacji laserowej w Beauty Medica możesz trwale pożegnać się z niechcianym owłosienia. Podczas zabiegów energia świetlna ulega zamianie w skoncentrowane ciepło, które prowadzi do zniszczenia komórek macierzystych odpowiedzialnych za wyrastanie włosków. W rezultacie laserowa depilacja sprawia, że w ciągu około dwóch tygodni od wykonania zabiegu włoski wypadają wraz z cebulkami. Zabiegi wykonywane są w seriach - różnych dla poszczególnych obszarów zabiegowych, koloru włosa i płci.">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="BeautyMedica">
     <meta property="og:locale" content="pl">
-    <meta property="og:url" content="http://www.hannabienkowska.pl">
     <meta property="og:image" content="../mm/favicon.ico">
     <link rel="shortcut icon" href="../mm/favicon.ico">
     <!--[if lte IE 8]><script src="../js/html5shiv.js"></script><![endif]-->
-    <link rel="stylesheet" media="screen" href="../css/tresc.css">
-    <link rel="stylesheet" type="text/css" href="../css/cookie.css" media="all" title="">
+   <link rel="stylesheet" media="screen" href="../css/tresc.css">
     <link rel="stylesheet" media="screen" href="../css/styl.css">
+    <link rel="stylesheet" media="screen" href="../css/styl-panel-tresc.css">
+    <link rel="stylesheet" media="screen" href="../css/tresc-panel.css">
 	<!--[if IE 9]><link rel="stylesheet" media="screen,projection,tv" href="../js/ie9.js" /><![endif]-->
 	<!--[if IE 8]><link rel="stylesheet" media="screen,projection,tv" href="../js/ie8a.js" /><![endif]-->
 	<!--[if lt IE 8]><link rel="stylesheet" media="screen,projection,tv" href="../js/ie8b.js" /><![endif]-->
+	<link href="../css/slider.css" rel="stylesheet" type="text/css"/>
+    <link href="../css/owl.carousel.css" rel="stylesheet" type="text/css"/>
 </head>
-<body id="index" class="html-ltr sand lang-pl wide"  onload="ciasteczka_z_hannah(0);">
+<body  id="onas" class="html-ltr lang-pl wide sand towary-panel">
 	<div id="outer-wrapper">
 	<div id="wrapper">
 	    <header id="masthead">
@@ -45,68 +47,37 @@
   	   <header class="mission imgefekt imgpctop">
 	   	<h1><img class="js" src="../mm/bm.png" data-src="../mm/bm.png" data-high-res="true" alt="Beauty Medica - Dzięki serii zabiegów depilacji laserowej w Beauty Medica możesz trwale pożegnać się z niechcianym owłosienia."></h1>
   	   </header>
-  	<section class="pillars"> 
-    <ul class="accordion">
-          <li id="panel-1" class="panel" tabindex="0">
-		  <h2 class="panel-title"><i>O nas</i></h2>
-        <div class="panel-inner">
-          <div class="panel-content">
-            <a href="onas.html">
-		<h3>O nas</h3>
-		<p>Naszym celem jest zadowolony Klient! <br class="ukryjfon" />Nasze doświadczenie na rynku sięga roku 2013. <br class="ukryjfon" />W tym czasie pogłębiliśmy wiedzę i doświadczenie w zakresie nowoczesnych technik kosmetologicznych.</p>
-              <p class="go">Dalsze informacje</p>
-            </a>
-          </div>
-        </div>
-      </li>
-    <li id="panel-2" class="panel" tabindex="0">
-    <h2 class="panel-title"><i>Zabiegi</i></h2>
-      <div class="panel-inner">
-        <div class="panel-content">
-          <a href="zabiegi.html">
-            <h3>Zabiegi</h3>
-	    <p><ul><li>Depilacja laserowa FHR</li><li>Depilacja laserowa MediLine SHR</li><li>Fotoodmładzanie</li><li>Leczenie trądziku</li><li>Zamykanie naczynek</li></ul></p>
-            <p class="go">Przejdź do zabiegów</p>
-	    </a>
-	 </div>
-      </div>
-    </li>
-          <li id="panel-3" class="panel" tabindex="0">
-		  <h2 class="panel-title"><i>Cennik</i></h2>
-        <div class="panel-inner">
-          <div class="panel-content">
-            <a href="cennik.html">
-              <h3>Cennik</h3>
-	      <p><br />Serdecznie zapraszamy Państwa do zapoznania się z naszą wyjątkowo korzystną ofertą cenową dla szerokiego zakresu usług kosmetologicznych.</p>
-              <p class="go">Zobacz cennik</p>
-            </a>
-          </div>
-        </div>
-      </li>
-          <li id="panel-4" class="panel" tabindex="0">
-                <h2 class="panel-title"><i>Promocje</i></h2>
-        <div class="panel-inner">
-          <div class="panel-content">
-            <a href="https://www.facebook.com/pages/category/Laser-Hair-Removal-Service/Beauty-Medica-1989195031158164/">
-              <h3>Promocje</h3>
-	      <p><br />Po najnowsze i najbardziej atrakcyjne <span style="color:red">promocje</span> serdecznie zapraszamy Państwa na nasz profil na Facebooku.</p>
-	      <p class="go">Zobacz <span class="ukryjfon">nasze</span> promocje</p>
-            </a>
-          </div>
-        </div>
-      </li>
-        </ul>
-  </section>
-    <div class="container">
-    
-  	<div style="position:relative;display:none" id="ciasteczka_alert"> <div class ='cookie-information-wrapper'>
-	<div class='cookie-information-container black' style="margin-left:1%; margin-right:10%;"> <div class='cookie-information-main'> <div class='btn-cookie-information'>
-	<p class='cookie-information-text'>Strona wykorzystuje pliki typu cookie. Jeżeli nie wyrażasz zgody na ich zapisywanie, wyłącz ich obsługę w ustawieniach swojej przeglądarki.      
-         <span><a  href="javascript:ciasteczka_z_hannah(1);" class='cookie-information-link'>Zamknij</a></span>
-	</p>
-        </div> </div>
-	</div> </div> </div>
-	</div><!-- zamkniij #container -->
+  	<div id="primary" class="kontener">
+		    <img class="imgefekt" src="../mm/onas.jpg" alt="Beauty Medica - Technologia Piękna"> 
+   <section>
+      <h2>Beauty Medica</h2>
+      <p style="text-align:justify;"><br />
+      Gabinet Kosmetyki Laserowej Beauty Medica jest otwarty dla wszystkich, którym problem niechcianego wąsika, owłosienia na klatce piersiowej, nogach czy plecach spędza sen z powiek.<br /><br />
+      Nasze zaangażowanie, kwalifikacje, wykształcenie medyczne oraz doświadczenie to gwarancja bezpiecznych i skutecznych zabiegów. <br /><br />
+      Bardzo chętnie przybliżymy zasady działania lasera podczas wizyty w naszym Gabinecie.<br /><br />
+      Spotkanie przy filiżance aromatycznej kawy, nasze kompetencje i wiedza powinny rozwiać wszelkie wątpliwości.<br /><br />
+      Pobyt w naszym gabinecie uprzyjemni też relaksacyjna muzyka, blask świec oraz nasze zaangażowanie i pasja.<br /><br />
+      </p>
+    </section>
+</div>
+<br />
+<div class="center"><div class="sliderArrow"><div class="sliderElements">
+	<div class="slider alignCenter"><img src="../mm/dyp/nagrody1.png" alt="statuetki"  /></div>
+	<div class="slider alignCenter"><img src="../mm/dyp/nagrody2.png" alt="statuetki"  /></div>		
+	<div class="slider alignCenter"><img src="../mm/dyp/dypzlotaigla85.jpg" alt="dyplom Złota Igła 1985"  /></div>
+	<div class="slider alignCenter"><img src="../mm/dyp/dypmodastyl.jpg" alt="dyplom Moda &amp; Styl"  /></div>
+	<div class="slider alignCenter"><img src="../mm/dyp/modastyl.png" alt="statuetka Moda &amp; Styl"  /></div>
+	<div class="slider alignCenter"><img src="../mm/dyp/dypzlotywieszak06.jpg" alt="dyplom Złoty Wieszak 2006"  /></div>
+	<div class="slider alignCenter"><img src="../mm/dyp/zlotapetelka13.png" alt="statuetka Złota Pętelka 2013"  /></div>
+	<div class="slider alignCenter"><img src="../mm/dyp/dypzlotapetelka13.jpg" alt="dyplom Złota Pętelka 2013"  /></div>
+	<div class="slider alignCenter"><img src="../mm/dyp/luksusowamarkaroku.png" alt="statuetka Luksusowa Marka Roku"  /></div>
+	<div class="slider alignCenter"><img src="../mm/dyp/sukces15.png" alt="statuetka Sukces Roku 2015"  /></div>
+	<div class="slider alignCenter"><img src="../mm/dyp/dypkreatormody16.jpg" alt="Dyplom Kreator Mody 2016"  /></div>
+	<div class="slider alignCenter"><img src="../mm/dyp/kreatormody16.png" alt="Statuetka Kreator Mody 2016"  /></div>
+</div></div></div> 
+ 	</main>
+   </div><!-- zamknij #wrapper -->
+</div><!-- zamknij #outer-wrapper -->
 	<footer id="colophon">
      <div class="row">
 	<div class="footer-logo"><a target="_parent" href="index.html"><img style="margin-top:-20px;" class="ukryjfon" src="../mm/bm.png" alt="Beauty Medica - Technologia Piękna - salon "></a>
@@ -137,13 +108,12 @@
         </div><!-- zamknij #footer-lang -->
      </div><!-- zamknij #row -->
    </footer>
-	</main>
-   </div><!-- zamknij #wrapper -->
-</div><!-- zamknij #outer-wrapper -->
-<script src="../js/cookie.js"></script>	    	    
+<script src="../js/jquery.min.js"></script>
+<script src="../js/owl.carousel.min.js"></script>
+<script src="../js/Tmpl.js"></script>
 <!--[if IE 9]> <script src="../js/matchMedia.js"></script>  <![endif]-->
-<script src="../js/mmenu0.js"></script><script src="../js/cslide.js"></script>
+<script>Tmpl.slider();	Tmpl.backTop();	</script>
+<script src="../js/mmenu0.js"></script>
 <div id="pageup"></div><script src="../js/jquery.pageup.js"></script>
-<script >$("#pageup").pageup();</script>
-<script src="../js/ua.js" ></script>
+<script>$("#pageup").pageup();</script>
 </body></html>

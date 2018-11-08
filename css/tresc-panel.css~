@@ -262,5 +262,5 @@ img[data-high-res] {
 }
 
 #cennik a, #zabiegi a { color: #ff53f9; text-decoration: none}
-#cennik a:hover,a:focus,a:active, #zabiegi a:hover,a:focus,a:active {color: #ff53f9;text-decoration: underline}
+#cennik a, #zabiegi a:hover,a:focus,a:active {color: #ff53f9;text-decoration: underline}
 

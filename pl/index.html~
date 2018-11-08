@@ -45,7 +45,7 @@
   	   <header class="mission imgefekt imgpctop">
 	   	<h1><img class="js" src="../mm/bm.png" data-src="../mm/bm.png" data-high-res="true" alt="Beauty Medica - Dzięki serii zabiegów depilacji laserowej w Beauty Medica możesz trwale pożegnać się z niechcianym owłosienia."></h1>
   	   </header>
-  	<section class="pillars"> 
+  	<section class="pillars">
     <ul class="accordion">
           <li id="panel-1" class="panel" tabindex="0">
 		  <h2 class="panel-title"><i>O nas</i></h2>
