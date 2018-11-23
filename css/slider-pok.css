@@ -14,16 +14,15 @@ body div.sliderArrow .sliderElements{
 	width:100%;
 }
 body div.slider{
-	padding-bottom:10px;
 	margin:0 auto;
 	border:2px double #2f1d0f;
-	max-height:460px;
+	max-height:387px;
 	max-width:560px;
 }
 body div.slider img{
 	margin:0;
 	padding:0;
-	max-height:4000px;
+	max-height:387px;
 	max-width:560px;
 	}
 	
